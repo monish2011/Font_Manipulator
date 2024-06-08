@@ -1,0 +1,19 @@
+body{
+    background-image: url("download (23).jpg");
+}
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    background-color: grey;
+    line-height:3;
+    text-align: center;
+    
+    width:100%;
+
+}
+canvas{
+    border-radius: 20px;
+    border-style: dashed;
+    
+}
